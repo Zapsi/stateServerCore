@@ -1,0 +1,11 @@
+C:\Users\jahod\RiderProjects\stateServerCore\bin\Debug\netcoreapp2.0\stateServerCore.deps.json
+C:\Users\jahod\RiderProjects\stateServerCore\bin\Debug\netcoreapp2.0\stateServerCore.runtimeconfig.json
+C:\Users\jahod\RiderProjects\stateServerCore\bin\Debug\netcoreapp2.0\stateServerCore.runtimeconfig.dev.json
+C:\Users\jahod\RiderProjects\stateServerCore\bin\Debug\netcoreapp2.0\stateServerCore.dll
+C:\Users\jahod\RiderProjects\stateServerCore\bin\Debug\netcoreapp2.0\stateServerCore.pdb
+C:\Users\jahod\RiderProjects\stateServerCore\obj\Debug\netcoreapp2.0\stateServerCore.csprojAssemblyReference.cache
+C:\Users\jahod\RiderProjects\stateServerCore\obj\Debug\netcoreapp2.0\stateServerCore.csproj.CoreCompileInputs.cache
+C:\Users\jahod\RiderProjects\stateServerCore\obj\Debug\netcoreapp2.0\stateServerCore.AssemblyInfoInputs.cache
+C:\Users\jahod\RiderProjects\stateServerCore\obj\Debug\netcoreapp2.0\stateServerCore.AssemblyInfo.cs
+C:\Users\jahod\RiderProjects\stateServerCore\obj\Debug\netcoreapp2.0\stateServerCore.dll
+C:\Users\jahod\RiderProjects\stateServerCore\obj\Debug\netcoreapp2.0\stateServerCore.pdb
